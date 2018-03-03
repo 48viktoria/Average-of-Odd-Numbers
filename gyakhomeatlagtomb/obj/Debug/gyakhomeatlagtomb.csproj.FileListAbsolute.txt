@@ -1,0 +1,9 @@
+C:\Users\Rendszergizda\Desktop\programozasgyakorlas\gyakhomeatlagtomb\gyakhomeatlagtomb\bin\Debug\gyakhomeatlagtomb.exe.config
+C:\Users\Rendszergizda\Desktop\programozasgyakorlas\gyakhomeatlagtomb\gyakhomeatlagtomb\bin\Debug\gyakhomeatlagtomb.exe
+C:\Users\Rendszergizda\Desktop\programozasgyakorlas\gyakhomeatlagtomb\gyakhomeatlagtomb\bin\Debug\gyakhomeatlagtomb.pdb
+C:\Users\Rendszergizda\Desktop\programozasgyakorlas\gyakhomeatlagtomb\gyakhomeatlagtomb\obj\Debug\gyakhomeatlagtomb.csprojResolveAssemblyReference.cache
+C:\Users\Rendszergizda\Desktop\programozasgyakorlas\gyakhomeatlagtomb\gyakhomeatlagtomb\obj\Debug\gyakhomeatlagtomb.Form1.resources
+C:\Users\Rendszergizda\Desktop\programozasgyakorlas\gyakhomeatlagtomb\gyakhomeatlagtomb\obj\Debug\gyakhomeatlagtomb.Properties.Resources.resources
+C:\Users\Rendszergizda\Desktop\programozasgyakorlas\gyakhomeatlagtomb\gyakhomeatlagtomb\obj\Debug\gyakhomeatlagtomb.csproj.GenerateResource.Cache
+C:\Users\Rendszergizda\Desktop\programozasgyakorlas\gyakhomeatlagtomb\gyakhomeatlagtomb\obj\Debug\gyakhomeatlagtomb.exe
+C:\Users\Rendszergizda\Desktop\programozasgyakorlas\gyakhomeatlagtomb\gyakhomeatlagtomb\obj\Debug\gyakhomeatlagtomb.pdb
